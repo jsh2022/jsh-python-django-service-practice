@@ -1,0 +1,1 @@
+# jsh-python-django-service-practice
